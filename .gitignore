@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+app-x.py
+assets
+main.py
+*.csv
